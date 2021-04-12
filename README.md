@@ -1,2 +1,2 @@
 # OpenClassRoomProject
-Perfectionnement de GITHUB
+Perfectionnement de React
